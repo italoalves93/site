@@ -9,6 +9,7 @@ projects:
   sub_heading: "Exploring place, light, and meaning through the lens"
   view_more_button_text: false
   view_more_button_link: false
+  category: "photography"
 ---
 
 Photography serves as both artistic expression and philosophical inquiry, capturing moments that reveal deeper truths about human experience and our relationship with place.
