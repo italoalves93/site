@@ -3,11 +3,11 @@ title: "Greece"
 description: "Light and life in the Greek landscape"
 date: 2024-06-15
 weight: 3
-header_transparent: true
+header_transparent: false
 fa_icon: false
 icon: "assets/images/icons/icons8-camera-50.png"
 thumbnail: "assets/images/gen/projects/project-3-thumbnail.webp"
-image: "assets/images/gen/projects/project-3.webp"
+image: "assets/images/photography/greece/greece-1.jpg"
 client: "Photography"
 role: "Personal Project"
 gallery:
