@@ -1,8 +1,8 @@
 # -------------------
 # Jekyll Config
 # --------------------
-baseurl: ""
-url: ""
+baseurl: "https://italoalves93.github.io/site/"
+url: "https://italoalves93.github.io/site/"
 permalink: pretty
 markdown: kramdown
 highlighter: rouge
