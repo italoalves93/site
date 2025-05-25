@@ -2,7 +2,7 @@
 layout: project
 title: "Greece"
 description: "Light and life in the Greek landscape"
-date: 2024-06
+date: 2024-12-01
 weight: 3
 header_transparent: false
 fa_icon: false
