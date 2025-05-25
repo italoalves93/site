@@ -1,4 +1,5 @@
 ---
+layout: project-top
 title: "Greece"
 description: "Light and life in the Greek landscape"
 date: 2024-06-15
