@@ -10,6 +10,7 @@ thumbnail: "assets/images/gen/projects/project-4-thumbnail.webp"
 image: "assets/images/gen/projects/project-4.webp"
 client: "Photography"
 role: "Personal Project"
+categories: ["photography"]
 gallery:
   - image: "assets/images/photography/death-valley/dv-1.jpg"
     caption: "Sunrise over the Mesquite Flat Sand Dunes"
