@@ -1,17 +1,14 @@
 ---
-layout: project-top
+layout: project
 title: "Greece"
 description: "Light and life in the Greek landscape"
-date: 2024-06-15
+date: 2024-06
 weight: 3
 header_transparent: false
 fa_icon: false
 icon: "assets/images/icons/icons8-camera-50.png"
 thumbnail: "assets/images/photography/greece/greece-1.jpg"
 image: "assets/images/photography/greece/greece-1.jpg"
-client: "Photography"
-role: "Personal Project"
-categories: ["photography"]
 gallery:
   - image: "assets/images/photography/greece/greece-1.jpg"
     caption: "Morning light on white-washed buildings in Santorini"
