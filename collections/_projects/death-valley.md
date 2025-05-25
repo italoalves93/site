@@ -3,7 +3,7 @@ title: "Death Valley, CA"
 description: "Solitude and vastness in the American desert"
 date: 2023-08-20
 weight: 4
-header_transparent: true
+header_transparent: false
 fa_icon: false
 icon: "assets/images/icons/icons8-camera-50.png"
 thumbnail: "assets/images/gen/projects/project-4-thumbnail.webp"
