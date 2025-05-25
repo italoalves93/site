@@ -1,6 +1,6 @@
 ---
 title: "Philosophy of Authenticity"
-description: "What does it mean to be who we truly are?"
+description: "PHIL 130 - An exploration of authentic existence and self-knowledge"
 date: 2024-01-15
 weight: 1
 header_transparent: true
@@ -10,6 +10,7 @@ thumbnail: "assets/images/gen/projects/project-1-thumbnail.webp"
 image: "assets/images/gen/projects/project-1.webp"
 client: "Loyola University Chicago"
 role: "Spring 2024"
+categories: ["teaching"]
 gallery:
   - image: "assets/images/gen/projects/project-1-1.webp"
     caption: "Course materials and readings"
@@ -25,7 +26,25 @@ This course delves into the question of whether, in our pursuit of self-knowledg
 
 ## Key Questions
 
-- s
-  
+- How can we ascertain that we are truly ourselves? 
+- Is it possible to exist as anything other than our authentic selves? 
+- Should we strive to become more aligned with our true selves? 
+- And, fundamentally, is there such a thing as a "self"?
+
+## Course Structure
+
+**Section I: Classical Accounts of Selfhood**  
+Exploring the development of concepts like the soul, consciousness, ego, person, and subject.
+
+**Section II: Modern Perspectives on Authenticity**  
+Examining the Romantic origins and existential implications of the call for authenticity.
+
+**Section III: Critical Accounts**  
+Reading challenges to foundational notions of selfhood, personhood, and subjectivity that put the very possibility of being authentic into question.
+
+## Learning Outcomes
+
+The philosophers we will be reading offer complex accounts that involve questions of knowledge, values, and reality, preparing students to engage critically with fundamental questions about human existence and self-understanding.
+
 **Semester:** Spring 2024  
 **Institution:** Loyola University Chicago
