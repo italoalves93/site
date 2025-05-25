@@ -6,7 +6,7 @@ weight: 3
 header_transparent: false
 fa_icon: false
 icon: "assets/images/icons/icons8-camera-50.png"
-thumbnail: "assets/images/gen/projects/project-3-thumbnail.webp"
+thumbnail: "ssets/images/photography/greece/greece-1.jpg"
 image: "assets/images/photography/greece/greece-1.jpg"
 client: "Photography"
 role: "Personal Project"
