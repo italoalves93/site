@@ -24,6 +24,12 @@ collections:
   posts:
     output: true
     permalink: /blog/:path/
+  courses:
+    output: true
+    permalink: /teaching/:path/
+  photography:
+    output: true
+    permalink: /photography/:path/
 
 # Pages
 defaults:
@@ -38,6 +44,16 @@ defaults:
     values:
       layout: post
       weight: 999
+  - scope:
+      path: ""
+      type: courses
+    values:
+      layout: project
+  - scope:
+      path: ""
+      type: photography
+    values:
+      layout: project
   - scope:
       path: "images"
     values:
