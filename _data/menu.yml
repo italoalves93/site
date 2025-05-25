@@ -26,43 +26,49 @@ main:
         icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
         description: "Top layout"
         url: /projects/project-4/
+  - name: CV
+    url: /cv/
+    weight: 3
+  - name: Research
+    url: /research/
+    weight: 4
+  - name: Teaching
+    url: /teaching/
+    weight: 5
+    child:
+      - name: "Philosophy of Authenticity"
+        description: "Course syllabus for my intro to 'Philosophy and Persons'"
+        url: /teaching/philosophy-of-authenticity/
+      - name: "Social and Political Philosophy"
+        description: "Liberalism and Its Critics"
+        url: /teaching/social-political/
+  - name: Photography
+    url: /photography/
+    weight: 6
   - name: Blog
     url: /blog/
-    weight: 2
-  - name: About
-    url: /about/
-    weight: 3
-  - name: Contact
-    url: /contact/
-    weight: 4
+    weight: 7
   
 
 footer_primary:
-  - name: "Project 1"
-    url: /projects/project-1/
-  - name: "Project 2"
-    url: /projects/project-2/
-  - name: "Project 3"
-    url: /projects/project-3/
-  - name: "Project 4"
-    url: /projects/project-4/
+  - name: "Currently"
+    url: /currently/
+    weight: 1
+  - name: "Research"
+    url: /research/
+    weight: 2
+  - name: "Teaching"
+    url: /teaching/
+    weight: 3
+  - name: "Photography"
+    url: /photography/
+    weight: 4
 
 footer_secondary:
   - name: Blog
     url: /blog/
     weight: 2
-  - name: About
-    url: /about/
-    weight: 3
-  - name: Contact
-    url: /contact/
-    weight: 4
-  - name: Privacy Policy
-    url: /privacy-policy/
-    weight: 1
-  - name: Terms and Conditions
-    url: /terms-and-conditions/
-    weight: 2
+
 
 footer_tertiary:
   - name: Privacy Policy
