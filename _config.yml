@@ -19,12 +19,6 @@ defaults:
     values:
       permalink: /:basename/
 
-# Collections configuration (if not already present)
-collections:
-  pages:
-    output: true
-    permalink: /:name/
-
 # Plugins
 plugins:
   - jekyll-environment-variables
