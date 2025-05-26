@@ -24,7 +24,7 @@ gallery:
 
 I ended up in Greece for one week for a slightly unorthodox reason. Family was meeting in Paris for the holidays and I needed to fly from Porto Alegre, in Brazil, to Paris. The holidays are known to be the most expensive time to fly. To curb travel costs, I looked for flights departing more than a week before the holidays and to cheaper destinations not so far from Paris. It turns out that Athens was the perfect location, as it was affordable, beautiful, and I had never been there.
 
-I spent seven days in Athens, with one day trip to Delphi in the middle. The light in Athens is warm and balmy in the winter, and the temperatures were as high as 16°C, which proved perfect to enjoy a coffee under the sun.
+I spent seven days in Athens, with one day trip to Delphi in the middle. The light in Athens is warm and balmy in the winter, and the temperatures were as high as 16°C, which proved perfect to enjoy a coffee under the sun. 
 
 ## Technical
 
