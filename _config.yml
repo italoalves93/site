@@ -7,6 +7,24 @@ permalink: pretty
 markdown: kramdown
 highlighter: rouge
 
+# Include the _pages directory for processing
+include:
+  - "_pages"
+
+# Set default values for pages in the _pages directory
+defaults:
+  - scope:
+      path: "_pages"
+      type: "pages"
+    values:
+      permalink: /:basename/
+
+# Collections configuration (if not already present)
+collections:
+  pages:
+    output: true
+    permalink: /:name/
+
 # Plugins
 plugins:
   - jekyll-environment-variables
