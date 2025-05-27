@@ -1,0 +1,15 @@
+---
+layout: post
+title: Mais uma sobre a evolução dos primatas
+date: '2014-12-08T14:46:20-06:00'
+categories: ["Português"]
+tumblr_url: https://peripatetico.tumblr.com/post/104696763886/mais-uma-sobre-a-evolu%C3%A7%C3%A3o-dos-primatas
+---
+18:10h, biblioteca da pontifícia. Topei com dois amigos, um da federal e outra da Unisinos, sentados no mezanino. Fui até lá falar com eles. Conversamos durante ~1 min. Uma mulher sentada a umas três mesas de distância fez “shhh” na minha direção. Eu estava cochichando no tom mais baixo, tanto que essa minha amiga teve que pedir pra eu repetir diversas vezes o que eu falei. Além disso, nós estávamos no mezanino do 2º andar. Se existe \*algum\* ambiente da biblioteca que seja feito para que pessoas cochichem, é esse. Para quem não conhece, é um espaço com várias mesinhas com quatro cadeiras cada. À mesa onde eu estava, sentávamos eu e os dois amigos. À mesa onde a moça que fez “shhh” estava, sentava só ela.
+
+Eu ignorei o “shhh” e continuei a cochichar. A moça começou a bater os dedinhos na mesa. Virei para ela e falei, num tom um pouco mais alto de cochicho: “Se a senhora se sente incomodada, existem salas individuais de estudo no sexto”. Virei e voltei a cochichar (se fosse qualquer cochicho ainda, mas era sobre um grupo de pesquisa!). Foi rápido – conversamos por uns 2 minutos e aí saí.
+
+No caminho, topei com a moça, essa, acompanhada de um funcionário da biblioteca. “Essa moça disse que o senhor tava conversando num tom meio alto e ela se sentiu incomodada”, disse o funcionário. “Sim, eu tava cochichando, exatamente como estou falando contigo agora”, respondi. Aí começou uma pequena discussão. A moça dizendo que se sentia incomodada; eu dizendo que estava cochichando e que ela era a única que se sentiu incomodada, num ambiente de estudo compartilhado; e o cara da biblioteca dizendo que recém tinha chegado e que não viu o que tinha acontecido. Certa altura do campeonato, eu dizendo para ela que eu estava cochichando e que ela virou e fez “shhh” e que havia espaços adequados para o que ela queria fazer (não ouvir nenhum som, aparentemente), ela disse: “mas tu não me dirige a palavra, tem que falar com ele (apontando pro cara da biblioteca)”. Continuei falando, dessa vez virado pro cara. Ele não falava nada de interessante, só dizia que recém tinha chegado. Ela voltou a falar comigo diretamente. “Pode falar com o mediador”, eu respondi. Eu tava achando aquilo tudo muito engraçado e segurando o riso.
+
+Em dado momento ela foi embora e eu fiquei conversando com o cara da biblioteca. Disse ele que se eu tivesse falando muito alto um colega já teria chamado minha atenção, aí fiquei com aquele sentimento de ter ganhado a discussão, mesmo a moça não sabendo disso. Logo depois passou um outro cara que estava no mezanino e falou pro cara da biblioteca: “Ele tava falando baixinho, foi ela que deu piti”. Bá, amei o cara. Me senti o ganhador. Tanto que imediatamente depois fiquei com uma vontade bem grande de voltar lá e continuar cochichando, preferencialmente mais perto da mulher.
+

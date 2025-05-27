@@ -1,0 +1,35 @@
+---
+layout: post
+title: Por que protestos de rua não funcionam?
+date: '2014-05-20T08:27:16-05:00'
+categories: ["Português"]
+tumblr_url: https://peripatetico.tumblr.com/post/86306399386/por-que-protestos-de-rua-n%C3%A3o-funcionam
+---
+_Como tantos protestos conquistam tão pouco?_
+
+MOISÉS NAÍM -&nbsp;07/04/2014
+
+Protestos estão na moda. De Bangcoc a Caracas, de Madrid a Moscou, nos últimos dias não se passa uma semana sem notícias de uma multidão gigantesca se reunindo nas ruas de alguma grande metrópole mundial. Os motivos para os protestos variam (educação ou transportes caros ou de má qualidade, planos de destruir um parque, abuso policial etc). Muitas vezes a pauta abarca repúdio ao governo ou a seu chefe, ou, mais frequentemente, denúncias de corrupção e desigualdade social.
+
+Fotos aéreas de marchas anti-governo muitas vezes mostram um mar intimidante de pessoas furiosas clamando por mudança. Mesmo assim, é surpreendente o quão pouco essas multidões conquistam. A energia política fervente nas ruas é totalmente desproporcional aos resultados práticos dessas manifestações
+
+Notáveis exceções existem, é claro: No Egito, Tunísia e Ucrânia, protestos contribuíram de fato para a derrubada do governo. Mas a maioria das manifestações não consegue criar mudanças significativas na política ou em políticas públicas. O movimento _Occupy Wall Street_ é um grande exemplo. Nascido no verão de 2011 (não em Wall Street, mas na Dataran Merdeka, em Kuala Lumpur), o movimento _Occupy_ se espalhou rapidamente e seu grito logo foi ouvido pelas praças de quase 2.500 cidades pelo mundo.
+
+Os diversos grupos que participaram não tinham nenhuma relação uns com os outros, nenhuma hierarquia nem líderes claros. Mas as redes sociais ajudaram a espalhar o movimento de forma viral, tanto que os padrões básicos de acampar, protestar, arrecadar dinheiro e se comunicar com a imprensa e autoridades foram similares de um lugar para outro. A mesma mensagem ecoou em todos os lugares: É inaceitável que a riqueza mundial esteja concentrada nas mãos de uma elite de 1 por cento enquanto o restante 99 por cento tenha que se virar com o resto.
+
+Uma iniciativa tão ampla, maciça e aparentemente bem organizada deveria ter um impacto maior. Mas não teve. Apesar do tema da desigualdade econômica ter ganhado espaço a partir de então, na prática é difícil encontrar mudanças políticas significativas baseadas nas propostas do _Occupy_. De forma geral, o movimento _Occupy_ desapareceu dos noticiários.
+
+As respostas do governo normalmente não passam de um apaziguamento retórico sem maiores reformas políticas. A presidente brasileira Dilma Rousseff, por exemplo, validou em rede nacional as frustrações daqueles que tomaram as ruas do país e prometeu que mudanças seriam feitas, entretanto essas “mudanças” ainda estão para acontecer. A reação do Primeiro-Ministro turco Recep Tayyip Erdogan aos protestos em seu país foi mais agressiva. Acusou a oposição e os protestantes de tramarem uma complexa conspiração contra ele e tentou bloquear o Twitter e o YouTube. No início deste mês, Erdogan obteve uma grande vitória nas eleições locais turcas. A mesma dinâmica teve lugar durante manifestações contra a violência na Cidade do México e contra a corrupção em Nova Deli: marchas maciças, tímidos resultados.
+
+Por quê? Como pessoas tão motivadas conquistam tão pouco? Uma resposta pode ser encontrada no resultado de um experimento conduzido por Anders Colding-Jørgensen, da Universidade de Copenhagen, que, em 2009, criou um grupo no Facebook para protestar contra a demolição da histórica Fonte Stork (Storkespringvandet), numa grande praça da capital dinamarquesa. Dez mil pessoas aderiram na primeira semana; depois de duas semanas, o grupo já tinha 27.000 simpatizantes. Esta foi a extensão do experimento. Porém, nunca houve nenhum plano de demolir a fonte—Colding-Jørgensen simplesmente quis demonstrar o quão fácil era criar um grupo relativamente grande usando as mídias sociais.
+
+Hoje em dia, um convite para protesto pelo Twitter, Facebook ou SMS certamente atrai uma multidão, principalmente se for para protestar contra alguma coisa—qualquer coisa, na verdade—que nos deixe pessoalmente indignados. O problema é o que acontece depois da manifestação. Às vezes acaba em confronto com a polícia, e muitas vezes a multidão simplesmente se dissipa. Atrás das enormes manifestações de rua raramente existe uma organização eficaz e permanente capaz de acompanhar as demandas dos protestantes e se submeter ao trabalho político complexo e desinteressante que produz mudanças reais no governo. Este é o ponto importante que toca Zeynep Tufekci, um pesquisador do Centro de Políticas de Tecnologia da Informação da Universidade de Princeton, que diz que “antes da Internet, a organização maçante necessária para contornar a censura ou organizar um protesto também ajudava a construir uma infraestrutura para tomada de decisões e elaboração de estratégias para manutenção do movimento. Hoje os grupos esquecem dessa parte, prejudicando muitas vezes a si mesmos.
+
+Há um motor politico poderoso em operação nas ruas de várias cidades, funcionando em alta velocidade e produzindo muita energia política. Mas o motor não está conectado a nenhuma roda, dessa forma o “movimento” não se move. Alcançar esse movimento exige organizações capazes de realizar o antiquado e permanente trabalho político capaz de alavancar as manifestações para o nível da mudança política. Em muitos casos, isso é sinônimo de partidos políticos. Mas não necessariamente partidos políticos com os que existem hoje, em que os manifestantes não confiam como agentes de transformação. Em vez disso, precisamos de partidos novos e profundamente reformados, que possam energizar tanto idealistas que se sentem politicamente desabrigados quanto profissionais totalmente devotados à luta diária para construir uma organização política que saiba como converter energia política em políticas públicas.
+
+Como muitos já disseram, as mídias sociais podem tanto facilitar quando prejudicar a formação de partidos políticos mais efetivos. É conhecido o poder das mídias sociais para identificar, recrutar, mobilizar, coordenar apoiadores e captar recursos. Mas também sabemos que o “clickativismo” e o ativismo de sofá prejudicam o trabalho político real criando ilusões doces de que “curtir” uma página ou tuitar mensagens inflamadas do conforto de nossos computadores ou celulares é equivalente ao ativismo que causa mudanças.
+
+O que temos testemunhado nos últimos anos é a popularização das marchas nas ruas sem um plano para o que deve acontecer depois e como manter os manifestantes engajados e integrados no processo político. É a última manifestação da perigosa ilusão de que é possível haver democracia sem partidos políticos—e que as manifestações através das mídias sociais têm mais chances de mudar a sociedade do que uma organização política sólida.
+
+ [deste](http://www.theatlantic.com/international/archive/2014/04/why-street-protests-dont-work/360264/)artigo, publicado em&nbsp;_The Atlantic_ no dia 7 de abril de 2014.
+
