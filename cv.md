@@ -8,9 +8,9 @@ I'm a philosopher by training, working on the intersection of social philosophy 
 
 The links below lead to my research projects and couses taught.
 
-## [Research](/research/)
+* ## [Research](/research/)
 
-## [Teaching](/teaching/)
+* ## [Teaching](/teaching/)
 
 ---
 
