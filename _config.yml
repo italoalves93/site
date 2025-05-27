@@ -165,7 +165,7 @@ darkmode:
   show_dark_mode_toggle_in_mobile_menu: true
 
 cookie_banner:
-  enabled: true
+  enabled: false
   show_manage_cookies_at_bottom: true
 
 analytics:
