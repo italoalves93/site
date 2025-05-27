@@ -95,7 +95,7 @@ exclude:
 # -------------------
 # Theme Config
 # --------------------
-title: "Italo Alves"
+title: "Jekyll Curate"
 category_dir: category
 
 colors:
