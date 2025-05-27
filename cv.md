@@ -4,7 +4,15 @@ title: "CV"
 description: "Short curriculum vitae"
 ---
 
-# Short CV
+I'm a philosopher by training, working on the intersection of social philosophy and aesthetics. 
+
+The links below lead to my research projects and couses taught.
+
+## [Research](/research/)
+
+## [Teaching](/teaching/)
+
+---
 
 ## Education
 
