@@ -23,17 +23,17 @@ I studied Art History for about two years. In addition to Brazil, I have also li
 
 ## News
 
-### Currently…
+### [Currently…]({{ "/currently/" | relative_url }})
 Here is a list of things I am currently reading and listening to.
 
 ### PhD
-I have recently defended my dissertation, "The Social Aesthetics of Recognition," at Loyola's Department of Philosophy. The committee was composed of Drs. Joy Gordon, David Ingram, and Andrew Cutrofello. I passed with distinction! 
+I have recently defended my dissertation, _The Social Aesthetics of Recognition_, at Loyola's Department of Philosophy. The committee was composed of Drs. Joy Gordon, David Ingram, and Andrew Cutrofello. I passed with distinction! 
 
 ### Forthcoming Conferences
 I will attend SPEP 63 in October 2025 and give a paper on Axel Honneth, recognition, and social (in)visibility.
 
 ### Newcombe Fellowship
-I have recently been awarded the Robert M. Adams–Charlotte W. Newcombe Fellowship in Philosophy by the Institute for Citizens and Scholars. The fellowship supports the writing of my dissertation on the Social Aesthetics of Recognition.
+I have recently been awarded the [Robert M. Adams–Charlotte W. Newcombe Fellowship in Philosophy](https://newcombefoundation.org/alumni-profiles/italo-alves/) by the Newcombe Foundation. The fellowship supports the writing of my dissertation.
 
 ---
 
