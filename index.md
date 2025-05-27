@@ -2,6 +2,7 @@
 layout: project-right
 title: "Italo Alves"
 image: "assets/images/photography/greece/greece-4.jpg"
+thumbnail: "assets/images/photography/greece/greece-4.jpg"
 ---
 
 ## News
