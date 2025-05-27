@@ -1,8 +1,12 @@
 ---
 layout: project-right
 title: "Italo Alves"
+description: "My website"
 image: "assets/images/photography/greece/greece-4.jpg"
-thumbnail: "assets/images/photography/greece/greece-4.jpg"
+gallery:
+  - image: "assets/images/photography/greece/greece-4.jpg"
+  - image: "assets/images/photography/greece/greece-2.jpg"
+  - image: "assets/images/photography/greece/greece-1.jpg"
 ---
 
 ## News
