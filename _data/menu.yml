@@ -2,46 +2,16 @@ main:
   - name: Home
     url: /
     weight: 1
-  - name: Projects
-    url: /projects/
+  - name: Work
+    url: /cv/
     weight: 2
     child:
-      - name: "Project Layout 1"
-        icon: "/assets/images/icons/wireframe-7.svg"
-        icon_darkmode: "/assets/images/icons/wireframe-7-white.svg"
-        description: "Default Project layout"
-        url: /projects/project-1/
-      - name: "Project Layout 2"
-        icon: "/assets/images/icons/wireframe-5.svg"
-        icon_darkmode: "/assets/images/icons/wireframe-5-white.svg"
-        description: "Right side layout"
-        url: /projects/project-2/
-      - name: "Project Layout 3"
-        icon: "/assets/images/icons/wireframe-6.svg"
-        icon_darkmode: "/assets/images/icons/wireframe-6-white.svg"
-        description: "Left side layout"
-        url: /projects/project-3/
-      - name: "Project Layout 4"
-        icon: "/assets/images/icons/wireframe-8.svg"
-        icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
-        description: "Top layout"
-        url: /projects/project-4/
-  - name: CV
-    url: /cv/
-    weight: 3
-  - name: Research
-    url: /research/
-    weight: 4
-  - name: Teaching
-    url: /teaching/
-    weight: 5
-    child:
-      - name: "Philosophy of Authenticity"
-        description: "Course syllabus for my intro to 'Philosophy and Persons'"
-        url: /teaching/philosophy-of-authenticity/
-      - name: "Social and Political Philosophy"
-        description: "Liberalism and Its Critics"
-        url: /teaching/social-political/
+      - name: "CV"
+        url: /cv/
+      - name: "Research"
+        url: /research/
+      - name: "Teaching"
+        url: /teaching/
   - name: Photography
     url: /photography/
     weight: 6
@@ -54,21 +24,11 @@ footer_primary:
   - name: "Currently"
     url: /currently/
     weight: 1
-  - name: "Research"
-    url: /research/
-    weight: 2
-  - name: "Teaching"
-    url: /teaching/
-    weight: 3
-  - name: "Photography"
-    url: /photography/
-    weight: 4
 
 footer_secondary:
   - name: Blog
     url: /blog/
     weight: 2
-
 
 footer_tertiary:
   - name: Privacy Policy
