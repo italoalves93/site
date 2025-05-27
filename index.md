@@ -1,14 +1,7 @@
 ---
-layout: project-left
+layout: project-right
 title: "Italo Alves"
 image: "assets/images/photography/greece/greece-4.jpg"
-posts:
-  limit: 3
-  columns: 3
-  heading: "Latest Posts"
-  sub_heading: "Recent blog posts"
-  view_more_button_text: "View All Posts"
-  view_more_button_link: "/blog/"
 ---
 
 ## News
