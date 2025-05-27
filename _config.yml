@@ -95,7 +95,7 @@ exclude:
 # -------------------
 # Theme Config
 # --------------------
-title: "Jekyll Curate"
+title: "Italo Alves"
 category_dir: category
 
 colors:
@@ -161,7 +161,7 @@ open_graph:
 darkmode:
   enable_dark_mode: true
   show_dark_mode_toggle_in_header: true
-  show_dark_mode_toggle_in_bottom: false
+  show_dark_mode_toggle_in_bottom: true
   show_dark_mode_toggle_in_mobile_menu: true
 
 cookie_banner:
@@ -195,7 +195,7 @@ contact_form:
 
 menu: 
   show_dropdown_items_in_mobile_menu: false
-  show_social_media_in_mobile_menu: true
+  show_social_media_in_mobile_menu: false
 
 footer:
   enable_footer: false # show/hide the entire footer
