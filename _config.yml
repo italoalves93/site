@@ -35,7 +35,7 @@ collections:
     permalink: /:collection/:path/
   posts:
     output: true
-    permalink: /blog/:path/
+    permalink: /blog/:title/
   courses:
     output: true
     permalink: /teaching/:path/
