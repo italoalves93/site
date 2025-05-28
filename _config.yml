@@ -24,7 +24,7 @@ plugins:
   - jekyll-environment-variables
   - jekyll-paginate
 
-paginate: 6
+paginate: 25
 paginate_path: "/blog/page/:num"
 
 # Collections
@@ -99,21 +99,21 @@ title: "Italo Alves"
 category_dir: category
 
 colors:
-  #light-mode colors
-  primary_bg: "#0d042b"
-  primary_bg_2: "#0d042b"
-  primary_bg_3: "#0d042b"
-  primary_text: "#fdfcf9"
-  base_bg: "#fdfcf9"
-  base_bg_2: "#f7f6ed"
-  base_bg_3: "#faebd7"
-  base_text: "#0d042b"
-  base_text_2: "#3b364c"
-  logo_text: "#0d042b"
-  header_text: "#0d042b"
+  # light-mode colors
+  primary_bg: "#F0BE00"       # Mobile menu background + submit button + category text + links + pagination menu
+  primary_bg_2: "#f5f5f5"     # Unknown (light gray for secondary elements)
+  primary_bg_3: "#e8e8e8"     # Unknown (slightly darker gray for contrast)
+  primary_text: "#2a2a2a"     # Menu items in mobile menu
+  base_bg: "#ffffff"          # Main background color
+  base_bg_2: "#f9f9f9"        # Footer background + category button + submenu background
+  base_bg_3: "#f0f0f0"        # Newsletter email field + dark/light mode button container
+  base_text: "#181818"        # Titles/Headings/Subheadings + dark/light mode button icons
+  base_text_2: "#464646"      # Main text
+  logo_text: "#181818"        # Logo text (same as headings)
+  header_text: "#2a2a2a"      # Menu items full screen
 
   # dark-mode colors
-  primary_bg_dark: "#cca328"      # Mobile menu background + submit button + category text + links + pagination menu
+  primary_bg_dark: "#F0BE00"      # Mobile menu background + submit button + category text + links + pagination menu
   primary_bg_2_dark: "#2a2a2a"    # Unknown (keeping slightly darker than primary)
   primary_bg_3_dark: "#404040"    # Unknown (keeping slightly lighter than primary)
   primary_text_dark: "#e0e0e0"    # Menu items in mobile menu
