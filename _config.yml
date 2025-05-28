@@ -113,17 +113,17 @@ colors:
   header_text: "#0d042b"
 
   # dark-mode colors
-  primary_bg_dark: "#FF0000"      # Red
-  primary_bg_2_dark: "#00FF00"    # Lime Green
-  primary_bg_3_dark: "#0000FF"    # Blue
-  primary_text_dark: "#FFFF00"    # Yellow
-  base_bg_dark: "#FF00FF"         # Magenta
-  base_bg_2_dark: "#00FFFF"       # Cyan
-  base_bg_3_dark: "#FFA500"       # Orange
-  base_text_dark: "#800080"       # Purple
-  base_text_2_dark: "#FFC0CB"     # Pink
-  logo_text_dark: "#A52A2A"       # Brown
-  header_text_dark: "#008000"     # Green
+  primary_bg_dark: "#3a3a3a"      # Mobile menu background + submit button + category text + links + pagination menu
+  primary_bg_2_dark: "#2a2a2a"    # Unknown (keeping slightly darker than primary)
+  primary_bg_3_dark: "#404040"    # Unknown (keeping slightly lighter than primary)
+  primary_text_dark: "#e0e0e0"    # Menu items in mobile menu
+  base_bg_dark: "#1a1a1a"         # Main background color
+  base_bg_2_dark: "#2d2d2d"       # Footer background + category button + submenu background
+  base_bg_3_dark: "#333333"       # Newsletter email field + dark/light mode button container
+  base_text_dark: "#f7f7f7"       # Titles/Headings/Subheadings + dark/light mode button icons
+  base_text_2_dark: "#cdcdcd"     # Main text
+  logo_text_dark: "#f0f0f0"       # Unknown (keeping close to headers but slightly dimmed)
+  header_text_dark: "#e8e8e8"     # Menu items full screen
 
 fonts:
   use_google_fonts: false
