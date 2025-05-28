@@ -2,11 +2,14 @@
 layout: project-right
 title: "Italo Alves"
 description: "My website"
-image: "assets/images/photography/greece/greece-4.jpg"
+image: "assets/images/gen/content/waltercio-caldas.jpg"
 gallery:
-  - image: "assets/images/photography/greece/greece-4.jpg"
-  - image: "assets/images/photography/greece/greece-2.jpg"
-  - image: "assets/images/photography/greece/greece-1.jpg"
+  - image: "assets/images/gen/content/waltercio-caldas.jpg"
+    caption: © Waltercio Caldas
+  - image: "assets/images/gen/content/franz-weissmann.jpg"
+    caption: © Franz Weissmann
+  - image: "assets/images/gen/content/fernanda-fragateiro.jpg"
+    caption: © Fernanda Fragateiro
 ---
 
 ## About Me
