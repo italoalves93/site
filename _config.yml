@@ -184,8 +184,8 @@ comments:
 
 newsletter:
   mailchimp:
-    form_action_url: https://zerostatic.us21.list-manage.com/subscribe/post?u=798e19886b83aaab346734382&amp;id=f1c526a772&amp;f_id=0027e3e6f0
-    form_title: "Let's keep in touch"
+    form_action_url: https://github.us10.list-manage.com/subscribe/post?u=29165d0aebf815948e10aa880&amp;id=2823ea1910&amp;f_id=0063d6e1f0
+    form_title: "Receba novos posts por e-mail"
 
 contact_form: 
   use_netlify_form: false
