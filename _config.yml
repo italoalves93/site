@@ -198,7 +198,7 @@ menu:
   show_social_media_in_mobile_menu: false
 
 footer:
-  enable_footer: true # show/hide the entire footer
+  enable_footer: false # show/hide the entire footer
   footer_title: ""
   footer_description: ""
   enable_social_media_icons: false
@@ -207,10 +207,6 @@ footer:
   enable_menu_footer_secondary: false
   enable_menu_footer_tertiary: false
   footer_primary_menu_title: "Our Projects"
-  footer_primary:
-    - name: "Site Map"
-      url: /sitemap/
-      weight: 1
   footer_secondary_menu_title: "Company"
   footer_tertiary_menu_title: "Other"
 
