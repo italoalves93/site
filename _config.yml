@@ -185,7 +185,7 @@ comments:
 newsletter:
   mailchimp:
     form_action_url: https://github.us10.list-manage.com/subscribe/post?u=29165d0aebf815948e10aa880&amp;id=2823ea1910&amp;f_id=0063d6e1f0
-    form_title: "Receba novos posts por e-mail"
+    form_title: "Receba por e-mail"
 
 contact_form: 
   use_netlify_form: false
