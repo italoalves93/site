@@ -113,17 +113,17 @@ colors:
   header_text: "#0d042b"
 
   # dark-mode colors
-  primary_bg_dark: "#252525"
-  primary_bg_2_dark: "#252525"
-  primary_bg_3_dark: "#252525"
-  primary_text_dark: "#cdcdcd"
-  base_bg_dark: "#131313"
-  base_bg_2_dark: "#131313"
-  base_bg_3_dark: "#252525"
-  base_text_dark: "#cdcdcd"
-  base_text_2_dark: "#cdcdcd"
-  logo_text_dark: "#f7f7f7"
-  header_text_dark: "#f7f7f7"
+  primary_bg_dark: "#FF0000"      # Red
+  primary_bg_2_dark: "#00FF00"    # Lime Green
+  primary_bg_3_dark: "#0000FF"    # Blue
+  primary_text_dark: "#FFFF00"    # Yellow
+  base_bg_dark: "#FF00FF"         # Magenta
+  base_bg_2_dark: "#00FFFF"       # Cyan
+  base_bg_3_dark: "#FFA500"       # Orange
+  base_text_dark: "#800080"       # Purple
+  base_text_2_dark: "#FFC0CB"     # Pink
+  logo_text_dark: "#A52A2A"       # Brown
+  header_text_dark: "#008000"     # Green
 
 fonts:
   use_google_fonts: false
