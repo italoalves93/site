@@ -113,7 +113,7 @@ colors:
   header_text: "#0d042b"
 
   # dark-mode colors
-  primary_bg_dark: "#3a3a3a"      # Mobile menu background + submit button + category text + links + pagination menu
+  primary_bg_dark: "#cca328"      # Mobile menu background + submit button + category text + links + pagination menu
   primary_bg_2_dark: "#2a2a2a"    # Unknown (keeping slightly darker than primary)
   primary_bg_3_dark: "#404040"    # Unknown (keeping slightly lighter than primary)
   primary_text_dark: "#e0e0e0"    # Menu items in mobile menu
