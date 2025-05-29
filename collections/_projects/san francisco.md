@@ -50,7 +50,7 @@ gallery:
 
 I was in San Francisco for the first time in April for a meeting of the Pacific Division of the American Philosophical Association (APA). Since this was my first time in Northern California, I decided to rent a car and explore a little bit of the city and the famous California State Route 1 from San Francisco to Santa Cruz.
 
-The weather was surprisingly nice and I was very lucky to not only visit the Golden Gate Bridge when there was no fog around, but also to be free on a Friday afternoon, when the [Internet Archive](archive.org) give their weekly tour of their headquarters. This was a highlight of the trip, with the Archive's founder, Brewster Kahle, spending more than two hours with us (and offering us ice cream at the end).
+The weather was surprisingly nice and I was very lucky to not only visit the Golden Gate Bridge when there was no fog around, but also to be free on a Friday afternoon, when the [Internet Archive](https://archive.org) give their weekly tour of their headquarters. This was a highlight of the trip, with the Archive's founder, Brewster Kahle, spending more than two hours with us (and offering us ice cream at the end).
 
 ## Technical
 
