@@ -9,6 +9,7 @@ fa_icon: false
 icon: "assets/images/icons/icons8-camera-50.png"
 thumbnail: "assets/images/photography/san-francisco/san-francisco-03.jpeg"
 image: "assets/images/photography/san-francisco/san-francisco-03.jpeg"
+gallery_limit: 999
 gallery:
   - image: "assets/images/photography/san-francisco/san-francisco-01.jpeg"
     caption: "Fisherman's Wharf"
