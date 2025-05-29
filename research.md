@@ -4,22 +4,20 @@ title: "Research"
 description: "My philosophical research and current projects"
 ---
 
-# Research
+# Current Projects
 
-## Current Projects
-
-### The Social Aesthetics of Recognition (2022–2025)
+## The Social Aesthetics of Recognition (2022–2025)
 
 The aesthetic realm has been a subject of critique in the history of social philosophy, often linked to negative values or dismissed as lacking moral significance. From Plato to Rousseau to Walter Benjamin, philosophers have criticized aesthetic considerations in social life for their perceived association with values like inauthenticity and manipulation. However, this critique overlooks the significance of everyday aesthetic categories, such as self-presentation and style, as conveyors of moral claims. While conspicuous forms of display may be seen as merely sartorial choices or symbols of class mobility, I argue that they function as aesthetic expressions of emerging moral intentions and normative claims, such as claims for recognition or critiques of leisure time distribution. A comprehensive understanding of social criticism—I contend—requires an investigation of aesthetic experiences and expressions in everyday life.
 
 This project aims to elucidate how the aesthetic sphere, particularly in everyday practices of self-presentation and style, is fundamental to articulating moral claims. Grounded in two major theoretical strands—late nineteenth to early twentieth-century German sociological thought and contemporary Frankfurt School critical theory—the project (1) dissects the "aestheticization critique," which claims that aesthetic concerns are unrelated to everyday considerations; (2) reconstructs the foundations of the philosophy of recognition, exploring its openness to aesthetic sensibility; (3) articulates the relationship between aesthetic expression, self-presentation, and style, highlighting their role as expressions of moral claims, including rejections of social marginalization; and (4) delves into a case study, exploring "mass dandyism," the culture of elegant dress among marginalized lower-class men. By fostering the encounter of social philosophy with aesthetics, the project contributes to the growing "aesthetic turn" in social thought, pushing social philosophy towards a deeper engagement with matters of expression and sensibility.
 
-## Completed Projects
+# Completed Projects
 
-### Immanent Critique and the Normativity of Social Performance (2018–2021)
+## Immanent Critique and the Normativity of Social Performance (2018–2021)
 
 In this study, I discuss the role of non-discursive practices in immanent social critique, paying special attention to the issue of the normative capacity of these practices. My central question is whether it is possible to identify normative capacity in the nondiscursive aspect of social practices. My hypothesis is positive. I argue that the symbolic, ritualistic, aesthetic, or—under the specific focus of this study—performative aspect of social practices not only expresses socially established norms of action but also reacts to them, and is therefore capable of raising normative claims. The study reconstructed the methodological categories of "practice-based immanent critique" and "normative reconstruction" from the works of contemporary critical theorists Jürgen Habermas and Axel Honneth, pointing out their limits in theorizing performative aspects of action. The study aimed to offer a contribution to the question concerning the object of social critique from the field of performance studies, especially from the work of Erving Goffman.
 
-### Dissensus and Normativity in the Public Sphere (2016–2018)
+## Dissensus and Normativity in the Public Sphere (2016–2018)
 
 In this project, I explored the role of dissensus in a theory of social normativity. I examined the fundamental elements of Jürgen Habermas' deliberative theory of social normativity and argued that, in a project of normative justification, both consensus and dissensus play a significant role. I provide a basic overview of Habermas' theory, which includes the concepts of discourse, consensus, and the public sphere, and then break down the theory into three different realms: politics, the political, and the dispute for politicity. I argued that (a) politics is a realm of the institutions of liberal democracy, where dissensus takes the form of conflict among groups and models of public spheres, having the role of keeping the public sphere multiple and inclusive; (b) the political is the realm of interaction of discourses about the imperative of human coexistence in the world, where dissensus takes the form of adversariness and has the role of maintaining the disagreement necessary for pluralism; and (c) the dispute for politicity is the pre-discursive realm where struggles for the capacity to issue political claims take place, where dissensus has the role of pointing out the unjustified partiality of the discursive genre as the only one capable of conveying social interactions with normative potential.
