@@ -22,7 +22,7 @@ I am a member of the Society for Phenomenology and Existential Philosophy (SPEP)
 
 I studied Art History for about two years. In addition to Brazil, I have also lived in Canada, Germany, and the US. I have a Warburgian interest in the relations between high and popular culture in everyday life, and I have written a few articles on this topic (they can be found on my blog and my Medium). I am the co-editor of Revista Porto Alegre, an online cultural review that publishes book reviews, interviews, and articles on arts and humanities. I like to swim.
 
----
+![](assets/images/logo/logo.png)
 
 ## News
 
