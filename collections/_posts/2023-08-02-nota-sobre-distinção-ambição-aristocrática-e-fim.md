@@ -3,6 +3,7 @@ layout: post
 title: "Nota sobre distinção, ambição aristocrática e fim do trabalho"
 date: '2023-08-02T15:08:30-05:00'
 categories: ["Português"]
+slug: "distincao-ambicao-aristocratica-fim-trabalho"
 tumblr_url: https://peripatetico.tumblr.com/post/724573262595702784/nota-sobre-distin%C3%A7%C3%A3o-ambi%C3%A7%C3%A3o-aristocr%C3%A1tica-e-fim
 ---
 
