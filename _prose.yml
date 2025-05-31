@@ -39,10 +39,14 @@ prose:
               value: "Português"
             - name: "English"
               value: "English"
+      - name: "description"
+        field:
+          element: "textarea"
+          label: "Description"
+          placeholder: "Brief description of the post"
       - name: "image"
         field:
           element: "text"
           label: "Featured Image"
-          placeholder: "Click to select image"
-          help: "Main image for this post"
+          placeholder: "Enter path to featured image"
           alterable: true
