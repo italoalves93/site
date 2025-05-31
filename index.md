@@ -14,7 +14,7 @@ gallery:
 
 ## About Me
 
-My name is Italo Alves, and I am an instructor in the Philosophy Department at Loyola University Chicago. I also hold a PhD in Philosophy from the same institution.
+I am an instructor in the Philosophy Department at Loyola University Chicago. I also hold a PhD in Philosophy from the same institution.
 
 My areas of interest are Social and Political Theory and Aesthetics, especially where both intersect. My dissertation, *The Social Aesthetics of Recognition*, argues that expressive modes of social action can raise normative claims for recognition. I have written on social and political philosophy and critical theory. My work has been supported by the Newcombe Foundation, the DAAD, Mitacs, Canada's Global Affairs, and Brazil's CNPq, among others.
 
