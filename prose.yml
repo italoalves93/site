@@ -1,0 +1,48 @@
+prose:
+  rooturl: 'collections/_posts'
+  siteurl: 'https://www.italoalves.com/'
+  relativeLinks: 'https://www.italoalves.com/links.jsonp'
+  media: 'assets/images'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    collections/_posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          placeholder: "Enter title"
+      - name: "slug"
+        field:
+          element: "text"
+          label: "Slug"
+          placeholder: "url-friendly-title"
+          help: "URL-friendly version of the title (optional - will auto-generate if empty)"
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date"
+          value: CURRENT_DATETIME
+      - name: "categories"
+        field:
+          element: "multiselect"
+          label: "Categories"
+          options:
+            - name: "Português"
+              value: "Português"
+            - name: "English"
+              value: "English"
+      - name: "image"
+        field:
+          element: "text"
+          label: "Featured Image"
+          placeholder: "Click to select image"
+          help: "Main image for this post"
+          alterable: true
