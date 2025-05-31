@@ -7,7 +7,7 @@ permalink: pretty
 markdown: kramdown
 highlighter: rouge
 
-# Include the _pages directory for processingg
+# Include the _pages directory for processing
 include:
   - "_pages"
 
