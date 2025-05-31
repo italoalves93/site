@@ -3,7 +3,7 @@
 # --------------------
 baseurl: ""
 url: "https://www.italoalves.com"
-permalink: pretty
+permalink: latin
 markdown: kramdown
 highlighter: rouge
 
