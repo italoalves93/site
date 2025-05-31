@@ -7,9 +7,6 @@ permalink: pretty
 markdown: kramdown
 highlighter: rouge
 
-kramdown:
-  slugify: latin
-
 # Include the _pages directory for processing
 include:
   - "_pages"
