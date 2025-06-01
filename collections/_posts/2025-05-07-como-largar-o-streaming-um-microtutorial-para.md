@@ -1,9 +1,12 @@
 ---
 layout: post
-title: "Como largar o streaming: um microtutorial para leigos"
+title: Como largar o streaming
 date: '2025-05-07T16:43:22-05:00'
-categories: ["Português"]
-tumblr_url: https://peripatetico.tumblr.com/post/782923677191766016/como-largar-o-streaming-um-microtutorial-para
+categories:
+  - Português
+tumblr_url: >-
+  https://peripatetico.tumblr.com/post/782923677191766016/como-largar-o-streaming-um-microtutorial-para
+description: Um microtutorial para leigos
 ---
 
 Há um bom tempo venho querendo fugir da atmosfera do streaming comercial—Spotify, Netflix, Amazon Prime, Max, etc. Tenho motivos tanto financeiros (muito caro pagar tudo isso), políticos (sou contra não ser dono dos arquivos das coisas que assisto, ouço e leio) e morais (essas empresas são fundamentalmente más).
@@ -89,4 +92,3 @@ Importante lembrar que, se você mora em uma jurisdição que complica com pirat
 Com esse setting pronto, você pode ouvir as suas músicas e ver os seus filmes no conforto da sua casa e inclusive fora dela. É possível também compartilhar a sua biblioteca com outras pessoas, embora eu ainda não tenha feito isso.
 
 Comecei há pouco a baixar músicas, e por isso ainda não me desfiz do Spotify, mas já, finalmente, deixei de pagar streamings de vídeo. Quando quero ver algo, baixo o torrent e depois ligo a TV, atualizo a biblioteca, e abro o filme. O Plex normalmente puxa legendas automaticamente que ele acha na internet.
-
