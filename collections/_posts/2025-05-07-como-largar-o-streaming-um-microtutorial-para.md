@@ -7,6 +7,8 @@ categories:
 tumblr_url: >-
   https://peripatetico.tumblr.com/post/782923677191766016/como-largar-o-streaming-um-microtutorial-para
 description: Um microtutorial para leigos
+image: >-
+  https://64.media.tumblr.com/f834f42b54091f4380135c24d29968d1/af679303464630c4-93/s640x960/97954d0da98a0e5872c74e65a57c150e5be951b1.png
 ---
 
 Há um bom tempo venho querendo fugir da atmosfera do streaming comercial—Spotify, Netflix, Amazon Prime, Max, etc. Tenho motivos tanto financeiros (muito caro pagar tudo isso), políticos (sou contra não ser dono dos arquivos das coisas que assisto, ouço e leio) e morais (essas empresas são fundamentalmente más).
