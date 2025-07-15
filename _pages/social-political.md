@@ -5,11 +5,10 @@ permalink: /teaching/social-political/
 description: "PHIL 182 | Spring 2023 | Loyola University Chicago"
 ---
 
-Class times: TTH 1:00–2:15 PM
-Classroom: Mundelein 621 
-
-Instructor: Italo Alves [ialves@luc.edu](mailto:ialves@luc.edu)
-Office: Crown 334H [Book an appointment](https://calendly.com/italoalves/officehours)
+- Class times: TTH 1:00–2:15 PM
+- Classroom: Mundelein 621 
+- Instructor: Italo Alves [ialves@luc.edu](mailto:ialves@luc.edu)
+- Office: Crown 334H [Book an appointment](https://calendly.com/italoalves/officehours)
 
 # Essential Course Information
 
