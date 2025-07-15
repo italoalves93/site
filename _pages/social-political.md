@@ -100,10 +100,10 @@ Any student requesting accommodations related to a disability or other condition
 
 ## Introduction
 
-Apr 29 (T)  Introduction, no reading required.  
+Aug 29 (T)  Introduction, no reading required.  
 - *Sign up for Perusall and complete assignment.*
 
-Apr 31 (Th)  Strauss,  _What is Political Philosophy?_  (pp. 343–355)
+Aug 31 (Th)  Strauss,  _What is Political Philosophy?_  (pp. 343–355)
 
 ## 1 • The Modern State
 
