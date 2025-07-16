@@ -2,6 +2,8 @@
 layout: basic
 title: "Social and Political Philosophy"
 permalink: /teaching/social-political/
+image: "assets/images/IMG_6569.jpg"
+thumbnail: "assets/images/IMG_6569.jpg"
 description: "PHIL 182 | Spring 2023 | Loyola University Chicago"
 ---
 
