@@ -2,6 +2,8 @@
 layout: basic
 title: "Philosophy of Authenticity"
 permalink: /teaching/philosophy-of-authenticity/
+image: "assets/images/duhrer.png"
+thumbnail: "assets/images/duhrer.png"
 description: "PHIL 130 | Spring 2024 | Loyola University Chicago"
 ---
 
