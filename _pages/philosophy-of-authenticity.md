@@ -7,7 +7,6 @@ thumbnail: "assets/images/duhrer.png"
 description: "PHIL 130 | Spring 2024 | Loyola University Chicago"
 ---
 
-
 - Class times: TTH 1:00–2:15 PM 
 - Classroom: Cuneo 203 
 - Instructor: Italo Alves [ialves@luc.edu](mailto:ialves@luc.edu)
