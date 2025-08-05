@@ -6,10 +6,8 @@ slug: derrame-todo-o-seu-amor-sobre-mim
 categories:
   - Português
 description: Uma elegia particularmente dançante
-image: >-
-  https://miro.medium.com/v2/resize:fit:3420/format:webp/1*hPsdyavLHDAxsBKPVp6EoA.png
-thumbnail: >-
-  https://miro.medium.com/v2/resize:fit:3420/format:webp/1*hPsdyavLHDAxsBKPVp6EoA.png
+image: /assets/images/abba-1.webp
+thumbnail: /assets/images/abba-1.webp
 ---
 Em 1992, o mundo ouvia pela primeira vez o álbum  [_Gold: Greatest Hits_](https://www.discogs.com/ABBA-Gold-Greatest-Hits/master/12249), compilação do quarteto sueco composto por Agnetha Fältskog, Björn Ulvaeus, Benny Andersson e Anni-Frid Lyngstad — o ABBA.  Celebrando uma carreira de sucesso que se iniciara nos anos 1970, a antologia musical do grupo conhecido por  _Dancing Queen_,  _Mamma Mia_,  _Chiquitita_  e uma lista enorme de outros sucessos contemplava um público que desde a década anterior compreendia da dona de casa carola até o frequentador de discoteca chapado de loló.
 
@@ -21,7 +19,8 @@ Mesmo a canção mais conhecida do grupo,  [_Dancing Queen_](https://open.spotif
 
 Em  _Chiquitita_, de 1979, isso aparece de forma escancarada. A letra diz, “Chiquitita, me diga qual é o problema/ Você está acorrentada pela própria tristeza/ Nos seus olhos não há esperança para amanhã…”. Descreve a miséria da  _Chiquitita_, no que parece uma situação de profunda depressão e sofrimento. O refrão (com melodia extremamente elétrica e  _upbeat_, destoando do tom da letra) é dedicado a consolar a  _Chiquitita_: “Você e eu sabemos/ Como essas dores de cabeça vem e vão e as cicatrizes que elas deixam/ Você vai voltar a dançar/ E a dor vai acabar/ Você não terá tempo para lamentar”.
 
-![](https://miro.medium.com/v2/resize:fit:2000/1*HxUZDtJ_NAG-fR89kQOShw.png)
+(![ABBA em Wembley, Inglaterra, 1979]({{site.baseurl}}/assets/images/abba-2.png)
+
 *ABBA em Wembley, Inglaterra, 1979 (© Carl Magnus Palm)*
 
 Em  [_Super Trouper_](https://open.spotify.com/track/0J2p4KYdr6Mg4ET6JPlbe1?si=-8IVaPSyQzyKXNc7whTxvw), canção que abre o álbum homônimo lançado em 1980, a estrutura de transições frequentes entre depressão e êxtase das letras adquire um nível  _meta_. Pela primeira vez o eu-lírico usa a primeira pessoa, e fala da própria experiência (trágica, mas ultimamente redimida) de ser  _superstar_, fazendo shows e se apresentando publicamente. A primeira estrofe começa assim:
@@ -49,7 +48,8 @@ Sim, vamos por partes.
 
 ABBA tem origem no início dos anos 1970, quando o casal de músicos suecos Agnetha Fältskog e Björn Ulvaeus conhece o também casal de também músicos suecos Benny Andersson e Anni-Frid Lyngstad. Após tocarem juntos em algumas  _jams_  esparsas, começam a se apresentar conjuntamente como “Björn & Benny, Agnetha & Anni-Frid”. Em 1973, quando o grupo já conquistava algum reconhecimento internacional, Stig Anderson, produtor e dono da gravadora do quarteto, começa a chamá-los privadamente de “ABBA”, acrônimo formado pela inicial do nome de cada um dos membros.
 
-![](https://miro.medium.com/v2/resize:fit:1400/1*nZKjJVljqV3mMX8pyCyGyg.png)
+![]({{site.baseurl}}/assets/images/abba-3.png)
+
 *Björn, Agnetha, Anni-Frid e Benny, c. 1981 (© Carl Magnus Palm)*
 
 O nome pegou e o grupo começou a navegar águas internacionais já em 1974, quando sai vencedor do campeonato europeu Eurovision com a canção  _Waterloo_, com letra em inglês e uma  [apresentação](https://www.youtube.com/watch?v=3FsVeMz1F5c)  considerada por muitos um dos maiores eventos da história da música pop. Dentro dos cinco ou seis anos subsequentes, os músicos do ABBA se tornariam as superestrelas de profusão internacional que conhecemos, fazendo turnês pela Europa, América do Norte, Ásia e Oceania.
@@ -58,8 +58,11 @@ Em janeiro de 1979, pouco menos de cinco anos depois do grupo ter ganhado o Euro
 
 Mais do que uma curiosidade biográfica, o divórcio de Agnetha e Björn marca mudanças nas composições do grupo, que passa a contar com um uso maior de sintetizadores nas músicas e temas mais pessoais nas letras.  [Carl Magnus Palm](http://www.abbatalk.com/tcrs/), uma das maiores autoridades em ABBA do planeta, identifica como 9 de setembro de 1980 a data de gravação de uma música com o misterioso nome provisório de  _Yarrafat_. Uma canção altamente dançante, com um ritmo de inspiração no estilo disco, pesado uso de sintetizadores e um misterioso canto coral. A canção, cujo título provisório,  _Yarrafat_, não parece ter nenhum significado próprio, viria a se tornar  _Lay All Your Love On Me_.
 
-![](https://miro.medium.com/v2/resize:fit:2000/1*XCB5BkcmRY5rgBTKwz6hHw.png)
+![]({{site.baseurl}}/assets/images/abba-4.png)
+
 *ABBA nos estúdios da Polar Music durante gravações para o álbum Super Trouper, outubro de 1980 (© Carl Magnus Palm)*
+
+/assets/images/abba-2.png
 
 Considerada a maior  _dance track_  do ABBA e  [uma das melhores de todos os tempos](http://www.slantmagazine.com/features/article/100-greatest-dance-songs/P5),  _Lay All Your Love On Me_  aparece pela primeira vez no álbum  _Super Trouper_, lançado em novembro de 1980, e no ano seguinte é lançada numa versão modificada junto com  _On And On And On_  como  _single_  de 12 polegadas, formato preferido por DJs. A canção apareceria também em  _Gold: Greatest Hits_, em 1992.
 
@@ -104,7 +107,8 @@ Todos esses versos anteriores ao refrão, na estrutura da música, servem para c
 
 A estrutura de constrição e relaxamento, se prestarmos atenção, está presente em uma série de produções humanas, e orienta padrões de ordem e harmonia desde a antiguidade clássica. E embora seja mais facilmente percebida em tipos artísticos que se desenrolam no tempo — música, teatro, literatura — também aparece em artes visuais ditas espaciais. A escultura grega, por exemplo — e aqui pensamos no ideal estético representado pelo Apolo Belvedere, que posa com uma porção do corpo tendida e outra relaxada — dá ao princípio um rosto e um corpo, além de uma pedra-de-toque para a beleza masculina ocidental por anos.
 
-![](https://miro.medium.com/v2/resize:fit:1400/1*djLA3wKpqCkjDzFR7vwHGA.jpeg)
+![]({{site.baseurl}}/assets/images/abba-5.jpg)
+
 *O Apolo Belvedere*
 
 Constrição e relaxamento, interessantemente, também é a estrutura do sexo, ou mais especificamente do gozo. Em 2007, vale lembrar, Marta Suplicy, política, sexóloga e então Ministra do Turismo do governo Lula, recomendou parcimônia aos cidadãos preocupados com a crise de infraestrutura que afetava os aeroportos brasileiros. Sintetizando seu argumento, apelou a um um aforismo do qual os hoje maiores de 25 devem se lembrar: “relaxa e goza”. A frase, porém, como notou à época uma amiga, é uma contradição em termos. Não se relaxa e então goza. O gozo exige constrição, tensão (de onde também, não coincidentemente, a palavra  _tesão_). O relaxamento não é senão consequência do gozo, e só é prazeroso por causa dele. A tensão é condição para a fruição.
@@ -170,14 +174,15 @@ A cultura do  _night club_  e da pista de dança acabaram criando suas dinâmica
 
 E contra qualquer suspeita de que ABBA não pudesse ficar  _mais_  gay, o duo britânico de synthpop Erasure lança, em 1992, no contexto de ressurgimento do ABBA, seu  [cover](https://www.youtube.com/watch?v=pn_59fAbCZw)  de  _Lay All Your Love On Me_, que integra, junto com versões de  _S.O.S._,  _Take A Chance On Me_  e  _Voulez-Vous_, o EP  [_Abba-esque_](https://en.wikipedia.org/wiki/Abba-esque). O álbum é apontado como um dos grandes responsáveis pelo aumento de interesse no ABBA numa época dominada pelo pós-punk. O álbum cover serviu como uma espécie de  _trailer_  para  _Gold: Greatest Hits_, que sairia em setembro daquele ano. Para além do fato de que esse cover existe, importa mencionar que o vocalista, Andy Bell, aparece no clipe da música vestindo as seguintes calças:
 
-![Andy Bell, vocalista do duo Erasure, posa em roupas douradas no clipe de seu cover de Lay ALl Your Love On Me.](https://miro.medium.com/v2/resize:fit:1400/0*ZH4-6aEKmvfehbPL)
-*Cena do clipe da versão Erasure de  _Lay All Your Love On Me_*
+![Andy Bell, vocalista do duo Erasure, posa em roupas douradas no clipe de seu cover de Lay ALl Your Love On Me.]({{site.baseurl}}/assets/images/abba-6.jpg)
+
+*Cena do clipe da versão Erasure de* Lay All Your Love On Me
 
 O escapismo gay da cena dos  _night clubs_  não passaria incólume às críticas de certos setores progressistas, mesmo internos aos movimentos LGBT, que viam nesse tipo de cultura uma passividade em relação às demais mudanças sociais e econômicas impostas por um novo modelo neoliberal que se alastrava pelos países do centro do capitalismo. Segundo esses críticos, descontar o estresse e a angústia da vida social num final de semana com muita música, drogas e sexo significava desperdiçar uma energia que poderia ser gasta transformando a sociedade, em vez de evitando-a. Alguns movimentos de liberação gay viam na cena disco a encarnação do capitalismo, tomando-o portanto por essencialmente reacionária.
 
 Podemos perguntar, porém, se não seria possível reconhecer que, apesar de possíveis implicações reacionárias, grupos minoritários podem empregar produtos culturais inseridos numa indústria cultural para afirmação de suas identidades — o que pode não ser muito, mas já é melhor do que simplesmente não ter nenhum espaço para manifestar sua forma de vida. E no fim das contas também parece questionável que o escapismo e o engajamento político sejam mutuamente excludentes. Quero crer que de alguma forma seja possível, simultaneamente, dançar e marchar.
 
-Ligando demasia e o exagero de uma certa sensibilidade gay/_camp_  à herança cristã está uma série de conceitos-chave trabalhados por  _Lay All Your Love On Me._  Alguns porque suficientemente abertos em termos semânticos para receberem uma interpretação que dê conta desses dois aspectos, outros porque evocam ao mesmo tempo conceitos historicamente associados aos dois mundos. Ambos os tipos aparecem expressamente na letra da canção.
+Ligando demasia e o exagero de uma certa sensibilidade gay/_camp_  à herança cristã está uma série de conceitos-chave trabalhados por  _Lay All Your Love On Me_.  Alguns porque suficientemente abertos em termos semânticos para receberem uma interpretação que dê conta desses dois aspectos, outros porque evocam ao mesmo tempo conceitos historicamente associados aos dois mundos. Ambos os tipos aparecem expressamente na letra da canção.
 
 Em primeiro lugar, podemos falar da frase central do refrão, também título da música: “Derrame todo seu amor sobre mim”, no original. A ideia de “derramar”, “depositar”, “_lay something on_”, em termos semióticos, funciona como um símbolo, e é capaz de entreter todo um campo de significados próprio. “Derramar” ativa ideias como “ jorrar”, “lambuzar”, “molhar”, “ungir” (derramar e esfregar unguento), e aí por diante. Uma leitura erotizada do refrão, que o resto da letra não apenas permite, mas incita, também enxergaria a proximidade significativa entre “amor” e “gérmen”, ou, num registro próximo, “sêmen”. É nesse sentido que “derrame seu amor sobre mim” pode se transformar, muito facilmente e no devido contexto, em “goze em mim”, ou “despeje seu sêmen sobre o meu corpo”.
 
@@ -193,7 +198,8 @@ Qualquer praticante de  [BDSM](http://blogs.correiobraziliense.com.br/daquilo/bd
 
 Não parece coincidência que um santo da Igreja Católica seja reconhecido como um dos primeiros ícones gays da história. É o caso de São Sebastião, personagem relativamente menor na teologia e história cristã. Segundo a crença tradicional, Sebastião, perseguido pelo imperador romano Diocleciano, no século III, foi amarrado a uma árvore e alvejado com flechas. As flechas, porém, não o mataram. Resgatado por quem viria a se tornar a Santa Irene, Sebastião vai até Diocleciano para alertá-lo de seus pecados. Como consequência, é morto a pauladas e seu corpo jogado no esgoto.
 
-![](https://miro.medium.com/v2/resize:fit:1400/0*bswqD3Sv95lCKCUg.jpg)
+![]({{site.baseurl}}/assets/images/abba-7.jpg)
+
 *São Sebastião, em pintura de Guido Reni, c. 1615.*
 
 Desde pelo menos o século XIX, São Sebastião passou a ser reivindicado enquanto personagem gay na literatura e nas artes, tendo aparecido com essa conotação em obras de Oscar Wilde, Proust, Kafka, Wallace Stevens, entre outros. Os motivos são vários. A história de São Sebastião é melancólica, atormentada por uma série de dramas trágicos, que podem servir como paralelo aos sentimentos de rejeição, vergonha e solidão sofridos por homossexuais em uma sociedade homofóbica.
