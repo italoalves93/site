@@ -19,7 +19,7 @@ Mesmo a canção mais conhecida do grupo,  [_Dancing Queen_](https://open.spotif
 
 Em  _Chiquitita_, de 1979, isso aparece de forma escancarada. A letra diz, “Chiquitita, me diga qual é o problema/ Você está acorrentada pela própria tristeza/ Nos seus olhos não há esperança para amanhã…”. Descreve a miséria da  _Chiquitita_, no que parece uma situação de profunda depressão e sofrimento. O refrão (com melodia extremamente elétrica e  _upbeat_, destoando do tom da letra) é dedicado a consolar a  _Chiquitita_: “Você e eu sabemos/ Como essas dores de cabeça vem e vão e as cicatrizes que elas deixam/ Você vai voltar a dançar/ E a dor vai acabar/ Você não terá tempo para lamentar”.
 
-(![ABBA em Wembley, Inglaterra, 1979]({{site.baseurl}}/assets/images/abba-2.png)
+![ABBA em Wembley, Inglaterra, 1979]({{site.baseurl}}/assets/images/abba-2.png)
 
 *ABBA em Wembley, Inglaterra, 1979 (© Carl Magnus Palm)*
 
@@ -61,8 +61,6 @@ Mais do que uma curiosidade biográfica, o divórcio de Agnetha e Björn marca m
 ![]({{site.baseurl}}/assets/images/abba-4.png)
 
 *ABBA nos estúdios da Polar Music durante gravações para o álbum Super Trouper, outubro de 1980 (© Carl Magnus Palm)*
-
-/assets/images/abba-2.png
 
 Considerada a maior  _dance track_  do ABBA e  [uma das melhores de todos os tempos](http://www.slantmagazine.com/features/article/100-greatest-dance-songs/P5),  _Lay All Your Love On Me_  aparece pela primeira vez no álbum  _Super Trouper_, lançado em novembro de 1980, e no ano seguinte é lançada numa versão modificada junto com  _On And On And On_  como  _single_  de 12 polegadas, formato preferido por DJs. A canção apareceria também em  _Gold: Greatest Hits_, em 1992.
 
