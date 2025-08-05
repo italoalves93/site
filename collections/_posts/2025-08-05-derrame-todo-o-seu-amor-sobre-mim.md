@@ -11,8 +11,6 @@ image: >-
 thumbnail: >-
   https://miro.medium.com/v2/resize:fit:3420/format:webp/1*hPsdyavLHDAxsBKPVp6EoA.png
 ---
-## Uma elegia particularmente dançante
-
 Em 1992, o mundo ouvia pela primeira vez o álbum  [_Gold: Greatest Hits_](https://www.discogs.com/ABBA-Gold-Greatest-Hits/master/12249), compilação do quarteto sueco composto por Agnetha Fältskog, Björn Ulvaeus, Benny Andersson e Anni-Frid Lyngstad — o ABBA.  Celebrando uma carreira de sucesso que se iniciara nos anos 1970, a antologia musical do grupo conhecido por  _Dancing Queen_,  _Mamma Mia_,  _Chiquitita_  e uma lista enorme de outros sucessos contemplava um público que desde a década anterior compreendia da dona de casa carola até o frequentador de discoteca chapado de loló.
 
 Assim como uma boa parcela da minha geração, nascida no início dos anos 1990, tive o primeiro contato com ABBA através do DVD de  _ABBA Gold_,  [lançado em 2003](https://www.discogs.com/ABBA-Gold-Greatest-Hits/release/3120581). Minha mãe, fã do grupo, tinha conseguido uma cópia emprestada de um colega de trabalho ainda no ano de lançamento. O DVD acabou ficando lá em casa talvez por mais de ano. Nesse período, lembro de passar tardes vendo e dançando com os clipes. O andamento acelerado e o ritmo bem marcado das canções, além do visual lisérgico dos clipes, apelava à sensibilidade lúdica de uma criança de 11 ou 12 anos.
