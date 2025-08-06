@@ -2,7 +2,6 @@
 layout: post
 date: '2017-06-24 12:00 -0500'
 title: 'Jânio, Collor e Temer'
-image: /assets/images/janio.jpg
 thumbnail: /assets/images/janio.jpg
 categories:
   - Português
