@@ -8,8 +8,6 @@ description: "Courses and pedagogical approach"
 
 ## Undergraduate Courses
 
-Are you a student and want to talk? [Schedule an appointment](https://calendly.com/italoalves/officehours?month=2023-04).
-
 ### Philosophy of Authenticity (PHIL 130)
 
 The question of who we are lies at the heart of philosophical inquiry. From Plato's contemplation of the imperative "know thyself" etched onto the Temple of Apollo at Delphi to Augustine's assertion that truth resides within, Western philosophy has been shaped by the dichotomy between "inner" and "outer" realities and the duality between the self as agent (who knows) and as object (who is known). This course explores the question of whether, in our pursuit of self-knowledge, we should actively aspire to *be* or *become* who we truly are. This is the problem of authenticity, the idea that some elements of ourselves can express who we really are, or that our lives can be led in a way that truly represents our inner nature. In this course, we will explore the challenges of authenticity, delving into questions such as: How can we ascertain that we are truly ourselves? Is it possible to exist as anything other than our authentic selves? Should we strive to become more aligned with our true selves? And, fundamentally, is there such a thing as a "self"? 
@@ -29,3 +27,8 @@ This course will provide an introductory exploration of the field of social and 
 
 ### Zotero para pessoas de humanas
 **Online, July 2021**
+
+## Office Hours
+
+<div class="calendly-inline-widget" data-url="https://calendly.com/italoalves/officehours?hide_event_type_details=1&hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
