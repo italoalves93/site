@@ -27,7 +27,7 @@ The links below lead to my research projects and couses taught.
 ## Teaching Experience
 
 **Instructor of Record, Philosophy Department, Loyola University Chicago**, 2023–present
-- Fall 2025: PHIL 181: Ethics. PHIL 277: Aesthetics
+- Fall 2025: PHIL 181: Ethics / PHIL 277: Aesthetics
 - Spring 2024: PHIL 130: Philosophy and Persons
 - Fall 2023: PHIL 182: Social and Political Philosophy
 - Spring 2023: PHIL 182: Social and Political Philosophy
