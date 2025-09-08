@@ -6,8 +6,6 @@ slug: pouca-miopia
 categories:
   - Português
 description: Sobre usar óculos quase sem precisar usar óculos
-image: /assets/images/DIGI0072.JPG
-thumbnail: /assets/images/DIGI0072.JPG
 ---
 Comecei a usar óculos relativamente tarde na vida. Eu devia ter uns 20 ou 21 anos, e a motivação para decidir fazer um exame de visão foi tripla. Em primeiro lugar, eu achava que talvez enxergasse mal de um olho. Me lembro de estar em uma aula de sociologia e ficar abrindo e fechando cada olho para ver se enxergava direito o quadro, e chegar à conclusão de que com um deles as coisas pareciam um pouco fora de foco. Sinto que em algum nível nossa visão sofre variações durante o dia. Quando se está cansado, é normal enxergar um pouco pior. Ou às vezes tem alguma coisa no olho que não dá pra tirar e que deixa a visão meio engordurada. De qualquer forma, pensei que talvez houvesse chegado a minha hora de precisar de ajuda de uma ferramenta para ver direito.
 
