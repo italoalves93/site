@@ -2,6 +2,7 @@
 layout: post
 title: Desornamentação
 thumbnail: /assets/images/desornamentacao.jpg
+image: /assets/images/desornamentacao.jpg
 description: A crítica do esquecimento do "belo" é uma espécie de redux da crítica da estetização, só que com o sinal trocado.
 slug: desornamentacao
 date: '2026-01-13 18:00 -0500'
