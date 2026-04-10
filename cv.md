@@ -6,9 +6,11 @@ description: "Short curriculum vitae"
 
 I'm a philosopher by training, working on the intersection of social philosophy and aesthetics. 
 
-The links below lead to my research projects and couses taught.
+The links below lead to my publications, research projects and couses taught.
 
-* ## [Research]({{ "/research/" | relative_url }})
+* ## [Publications]({{ "/publications/" | relative_url }})
+
+* ## [Research Projects]({{ "/research/" | relative_url }})
 
 * ## [Teaching]({{ "/teaching/" | relative_url }})
 
@@ -17,6 +19,8 @@ The links below lead to my research projects and couses taught.
 ## Education
 
 **Ph.D., Loyola University Chicago**, Philosophy, 2025
+
+**Doctorate, PUCRS**, Philosophy, 2022
 
 **Master's Degree, PUCRS**, Philosophy, 2018
 
@@ -27,6 +31,7 @@ The links below lead to my research projects and couses taught.
 ## Teaching Experience
 
 **Instructor of Record, Philosophy Department, Loyola University Chicago**, 2023–present
+- Spring 2026: PHIL 130: Philosophy and Persons
 - Fall 2025: PHIL 181: Ethics / PHIL 277: Aesthetics
 - Spring 2024: PHIL 130: Philosophy and Persons
 - Fall 2023: PHIL 182: Social and Political Philosophy
