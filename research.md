@@ -1,7 +1,7 @@
 ---
 layout: basic
-title: "Research"
-description: "My philosophical research and current projects"
+title: "Research Projects"
+description: "Current and past research projects"
 ---
 
 # Current Projects
@@ -10,7 +10,7 @@ description: "My philosophical research and current projects"
 
 The aesthetic realm has been a subject of critique in the history of social philosophy, often linked to negative values or dismissed as lacking moral significance. From Plato to Rousseau to Walter Benjamin, philosophers have criticized aesthetic considerations in social life for their perceived association with values like inauthenticity and manipulation. However, this critique overlooks the significance of everyday aesthetic categories, such as self-presentation and style, as conveyors of moral claims. While conspicuous forms of display may be seen as merely sartorial choices or symbols of class mobility, I argue that they function as aesthetic expressions of emerging moral intentions and normative claims, such as claims for recognition or critiques of leisure time distribution. A comprehensive understanding of social criticism—I contend—requires an investigation of aesthetic experiences and expressions in everyday life.
 
-This project aims to elucidate how the aesthetic sphere, particularly in everyday practices of self-presentation and style, is fundamental to articulating moral claims. Grounded in two major theoretical strands—late nineteenth to early twentieth-century German sociological thought and contemporary Frankfurt School critical theory—the project (1) dissects the "aestheticization critique," which claims that aesthetic concerns are unrelated to everyday considerations; (2) reconstructs the foundations of the philosophy of recognition, exploring its openness to aesthetic sensibility; (3) articulates the relationship between aesthetic expression, self-presentation, and style, highlighting their role as expressions of moral claims, including rejections of social marginalization; and (4) delves into a case study, exploring "mass dandyism," the culture of elegant dress among marginalized lower-class men. By fostering the encounter of social philosophy with aesthetics, the project contributes to the growing "aesthetic turn" in social thought, pushing social philosophy towards a deeper engagement with matters of expression and sensibility.
+This project aims to elucidate how the aesthetic sphere, particularly in everyday practices of self-presentation and style, is fundamental to articulating moral claims. Grounded in two major theoretical strands—late nineteenth to early twentieth-century German sociological thought and contemporary Frankfurt School critical theory—the project (1) dissects the "aestheticization critique," which claims that aesthetic concerns are unrelated to everyday considerations; (2) reconstructs the foundations of the philosophy of recognition, exploring its openness to aesthetic sensibility; (3) articulates the relationship between aesthetic expression, self-presentation, and style, highlighting their role as expressions of moral claims, including rejections of social marginalization; and (4) conducts a case study, exploring "mass dandyism," the culture of elegant dress among marginalized lower-class men. By fostering the encounter of social philosophy with aesthetics, the project contributes to the growing "aesthetic turn" in social thought, pushing social philosophy towards a deeper engagement with matters of expression and sensibility.
 
 # Completed Projects
 
