@@ -1,0 +1,100 @@
+---
+layout: basic
+title: Publications
+description: My academic publications
+permalink: /publications/
+---
+
+<div id="zotero-publications" class="mt-3">Loading publications…</div>
+
+<script>
+  var userId = '1521053';
+  var url = 'https://api.zotero.org/users/' + userId + '/publications/items?format=json&limit=100&sort=date&direction=desc';
+
+  var typeLabels = {
+    journalArticle: 'Journal Articles',
+    bookSection: 'Book Chapters',
+    book: 'Books',
+    thesis: 'Theses',
+    conferencePaper: 'Conference Papers',
+    magazineArticle: 'Magazine Articles',
+    newspaperArticle: 'Newspaper Articles',
+    report: 'Reports',
+    webpage: 'Web Publications',
+    manuscript: 'Manuscripts',
+    presentation: 'Presentations'
+  };
+
+  var typeOrder = [
+    'book', 'bookSection', 'journalArticle', 'conferencePaper',
+    'thesis', 'report', 'manuscript', 'webpage', 'magazineArticle',
+    'newspaperArticle', 'presentation'
+  ];
+
+  function extractYear(dateStr) {
+    if (!dateStr) return '';
+    var match = dateStr.match(/\b(19|20)\d{2}\b/);
+    return match ? match[0] : '';
+  }
+
+  fetch(url)
+    .then(function(r) { return r.json(); })
+    .then(function(items) {
+      var container = document.getElementById('zotero-publications');
+
+      var publications = items.filter(function(item) {
+        return !item.data.parentItem;
+      });
+
+      if (!publications.length) {
+        container.innerHTML = '<p>No publications found.</p>';
+        return;
+      }
+
+      var groups = {};
+      publications.forEach(function(item) {
+        var type = item.data.itemType;
+        if (!groups[type]) groups[type] = [];
+        groups[type].push(item);
+      });
+
+      var html = typeOrder
+        .filter(function(type) { return groups[type]; })
+        .map(function(type) {
+          var label = typeLabels[type] || type;
+          var itemsHtml = groups[type].map(function(item) {
+            var d = item.data;
+            var authors = (d.creators || [])
+              .filter(function(c) { return c.creatorType === 'author'; })
+              .map(function(c) { return c.lastName ? c.lastName + ', ' + (c.firstName || '')[0] + '.' : c.name; })
+              .join(', ');
+            var year = extractYear(d.date);
+            var venue = d.publicationTitle || d.publisher || d.university || d.institution || '';
+            var doi = d.DOI
+              ? '<a class="d-block small mt-1" href="https://doi.org/' + d.DOI + '" target="_blank">DOI: ' + d.DOI + '</a>'
+              : '';
+            var link = (!d.DOI && d.url)
+              ? '<a class="d-block small mt-1" href="' + d.url + '" target="_blank">Link &#8599;</a>'
+              : '';
+            return '<div class="mb-4">'
+              + '<p class="mb-1"><strong>' + (d.title || 'Untitled') + '</strong></p>'
+              + '<p class="mb-1 text-muted small">'
+              + authors
+              + (year ? ' (' + year + ')' : '')
+              + (venue ? '. <em>' + venue + '</em>' : '')
+              + '.</p>'
+              + doi + link
+              + '</div>';
+          }).join('');
+
+          return '<h2 class="mt-5 mb-3">' + label + '</h2>' + itemsHtml;
+        }).join('');
+
+      container.innerHTML = html;
+    })
+    .catch(function(err) {
+      console.error(err);
+      document.getElementById('zotero-publications').innerHTML =
+        '<p>Could not load publications. Please try again later.</p>';
+    });
+</script>
