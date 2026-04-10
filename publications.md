@@ -11,7 +11,6 @@ permalink: /publications/
   const userId = '1521053';
   const url = `https://api.zotero.org/users/${userId}/publications/items?format=json&limit=100&sort=date&direction=desc`;
 
-  // Map Zotero item types to readable labels
   const typeLabels = {
     journalArticle: 'Journal Articles',
     bookSection: 'Book Chapters',
@@ -26,23 +25,25 @@ permalink: /publications/
     presentation: 'Presentations',
   };
 
-  // Extract a clean 4-digit year from messy Zotero date strings
+  const typeOrder = [
+    'book', 'bookSection', 'journalArticle', 'conferencePaper',
+    'thesis', 'report', 'manuscript', 'webpage', 'magazineArticle',
+    'newspaperArticle', 'presentation'
+  ];
+
   function extractYear(dateStr) {
     if (!dateStr) return '';
     const match = dateStr.match(/\b(19|20)\d{2}\b/);
     return match ? match[0] : '';
   }
 
-  // Parent item types to show; filter out attachments, notes, etc.
-  const validTypes = new Set(Object.keys(typeLabels));
-
   fetch(url)
     .then(r => r.json())
     .then(items => {
       const container = document.getElementById('zotero-publications');
 
-      // Keep only real publication items, not attachments/notes
-      const publications = items.filter(item => validTypes.has(item.data.itemType));
+      // Only top-level items (no parentItem field)
+      const publications = items.filter(item => !item.data.parentItem);
 
       if (!publications.length) {
         container.innerHTML = '<p>No publications found.</p>';
@@ -57,39 +58,42 @@ permalink: /publications/
         groups[type].push(item);
       });
 
-      // Render each group
-      const html = Object.entries(groups).map(([type, items]) => {
-        const label = typeLabels[type] || type;
-        const itemsHtml = items.map(item => {
-          const d = item.data;
-          const authors = (d.creators || [])
-            .filter(c => c.creatorType === 'author')
-            .map(c => c.lastName ? `${c.lastName}, ${(c.firstName || '')[0]}.` : c.name)
-            .join(', ');
-          const year = extractYear(d.date);
-          const venue = d.publicationTitle || d.publisher || d.university || d.institution || '';
-          const doi = d.DOI
-            ? `<a class="d-block small mt-1" href="https://doi.org/${d.DOI}" target="_blank">DOI: ${d.DOI}</a>`
-            : '';
-          const link = !d.DOI && d.url
-            ? `<a class="d-block small mt-1" href="${d.url}" target="_blank">Link ↗</a>`
-            : '';
-          return `
-            <div class="mb-4">
-              <p class="mb-1"><strong>${d.title || 'Untitled'}</strong></p>
-              <p class="mb-1 text-muted small">
-                ${authors}${year ? ` (${year})` : ''}${venue ? `. <em>${venue}</em>` : ''}.
-              </p>
-              ${doi}${link}
-            </div>`;
-        }).join('');
+      // Render groups in defined order
+      const html = typeOrder
+        .filter(type => groups[type])
+        .map(type => {
+          const label = typeLabels[type] || type;
+          const itemsHtml = groups[type].map(item => {
+            const d = item.data;
+            const authors = (d.creators || [])
+              .filter(c => c.creatorType === 'author')
+              .map(c => c.lastName ? `${c.lastName}, ${(c.firstName || '')[0]}.` : c.name)
+              .join(', ');
+            const year = extractYear(d.date);
+            const venue = d.publicationTitle || d.publisher || d.university || d.institution || '';
+            const doi = d.DOI
+              ? `<a class="d-block small mt-1" href="https://doi.org/${d.DOI}" target="_blank">DOI: ${d.DOI}</a>`
+              : '';
+            const link = !d.DOI && d.url
+              ? `<a class="d-block small mt-1" href="${d.url}" target="_blank">Link ↗</a>`
+              : '';
+            return `
+              <div class="mb-4">
+                <p class="mb-1"><strong>${d.title || 'Untitled'}</strong></p>
+                <p class="mb-1 text-muted small">
+                  ${authors}${year ? ` (${year})` : ''}${venue ? `. <em>${venue}</em>` : ''}.
+                </p>
+                ${doi}${link}
+              </div>`;
+          }).join('');
 
-        return `<h2 class="mt-5 mb-3">${label}</h2>${itemsHtml}`;
-      }).join('');
+          return `<h2 class="mt-5 mb-3">${label}</h2>${itemsHtml}`;
+        }).join('');
 
       container.innerHTML = html;
     })
-    .catch(() => {
+    .catch(err => {
+      console.error(err);
       document.getElementById('zotero-publications').innerHTML =
         '<p>Could not load publications. Please try again later.</p>';
     });
