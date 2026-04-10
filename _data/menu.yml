@@ -8,7 +8,9 @@ main:
     child:
       - name: "CV"
         url: /cv/
-      - name: "Research"
+      - name: "Publications"
+        url: /publications/
+      - name: "Research Projects"
         url: /research/
       - name: "Teaching"
         url: /teaching/
