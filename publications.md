@@ -1,17 +1,11 @@
 ---
-layout: page
-title: "Publications"
+layout: basic
+title: Publications
+description: My academic publications
 permalink: /publications/
 ---
 
-<div id="zotero-publications">Loading publications…</div>
-
-<style>
-  .zp-item { margin-bottom: 1.2em; }
-  .zp-title { font-weight: bold; }
-  .zp-meta { color: #555; font-size: 0.9em; }
-  .zp-doi a { font-size: 0.85em; }
-</style>
+<div id="zotero-publications" class="mt-3">Loading publications…</div>
 
 <script>
   const userId = '1521053';
@@ -33,13 +27,13 @@ permalink: /publications/
           .join(', ');
         const year = d.date ? d.date.substring(0, 4) : '';
         const journal = d.publicationTitle || d.publisher || d.university || '';
-        const doi = d.DOI ? `<div class="zp-doi"><a href="https://doi.org/${d.DOI}" target="_blank">DOI: ${d.DOI}</a></div>` : '';
-        const link = d.url ? `<div class="zp-doi"><a href="${d.url}" target="_blank">Link</a></div>` : '';
+        const doi = d.DOI ? `<a class="d-block small mt-1" href="https://doi.org/${d.DOI}" target="_blank">DOI: ${d.DOI}</a>` : '';
+        const link = !d.DOI && d.url ? `<a class="d-block small mt-1" href="${d.url}" target="_blank">Link</a>` : '';
         return `
-          <div class="zp-item">
-            <div class="zp-title">${d.title || 'Untitled'}</div>
-            <div class="zp-meta">${authors}${year ? ` (${year})` : ''}${journal ? `. <em>${journal}</em>` : ''}.</div>
-            ${doi || link}
+          <div class="mb-4">
+            <p class="mb-1"><strong>${d.title || 'Untitled'}</strong></p>
+            <p class="mb-1 text-muted small">${authors}${year ? ` (${year})` : ''}${journal ? `. <em>${journal}</em>` : ''}.</p>
+            ${doi}${link}
           </div>`;
       }).join('');
     })
