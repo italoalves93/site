@@ -14,7 +14,7 @@ gallery:
 
 ## About Me
 
-My name is Italo Alves, and I am a Postdoctoral Researcher at the [Federal Rural University of Rio de Janeiro](https://cursos.ufrrj.br/posgraduacao/ppgfil/italo-da-silva-alves/) and a Researcher at the Fundação Getúlio Vargas [Centre for Global Law](https://www.cejmfgv.com/team). I hold a PhD in Philosophy from Loyola University Chicago, as well as degrees in Law and Political Philosophy (for details, see my [CV]({{ "/cv/" | relative_url }})).
+My name is Italo Alves, and I am a Postdoctoral Fellow at the [Federal Rural University of Rio de Janeiro](https://cursos.ufrrj.br/posgraduacao/ppgfil/italo-da-silva-alves/). I hold a PhD in Philosophy from Loyola University Chicago, as well as degrees in Law and Political Philosophy (for details, see my [CV]({{ "/cv/" | relative_url }})).
 
 My areas of interest are Social and Political Theory and Aesthetics, especially where both intersect. My dissertation, *The Social Aesthetics of Recognition*, argues that expressive modes of social action can raise normative claims for recognition. I have written on social and political philosophy and critical theory. My work has been supported by the Newcombe Foundation, the DAAD, Mitacs, Canada's Global Affairs, and Brazil's CNPq, among others.
 
@@ -29,8 +29,15 @@ I studied Art History for about two years. In addition to Brazil, I have also li
 ### [Currently…]({{ "/currently/" | relative_url }})
 Here is a list of things I am currently reading and listening to.
 
-### Forthcoming Conferences
-I will be presenting at the _[I Conferência Internacional Dialéticas](https://www.anpof.org/agenda/eventos/i-conferencia-internacional-dialeticas)_ at UCS, in Caxias do Sul, which will take place on October 7–9, 2026. My work will discuss some issues with Christoph Menke's _Theory of Liberation_.
+### Recent Publications
+"Dandyism" (in _[Political Concepts](https://www.politicalconcepts.org/dandyism-italo-alves/)_), where I make the case for the inclusion of "dandyism" in the political vocabulary, and that it shows how political claims can be expressed even in the absence of explicit articulation.
+
+"Practice-Based Immanent Critique: A Model of Critical Theory" (in _[ethic@](https://doi.org/10.5007/1677-2954.2025.e108066)_, in Portuguese), where I argue that looking at social practices (as opposed to their interpretations) is a productive way of doing reconstructive critical theory.
+
+### Conferences
+I will be at the [2026 Meeting](https://encontro.anpof.org.br/programacao-de-gts-sts-e-anpof-eb/) of the Brazilian Philosophical Association (ANPOF) in Florianópolis, from Nov 17–20. I will give a talk on Carl Schmitt and Walter Benjamin where I argue that they both share pretty much the same critique of "aestheticization", and that this is a rather problematic critique.
+
+I have recently presented at _[I Conferência Internacional Dialéticas](https://www.anpof.org/agenda/eventos/i-conferencia-internacional-dialeticas)_ at UCS, in Caxias do Sul, which took place on October 7–9, 2026. My work discussed some issues with Christoph Menke's _Theory of Liberation_.
 
 ---
 
