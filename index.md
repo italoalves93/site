@@ -30,12 +30,12 @@ I studied Art History for about two years. In addition to Brazil, I have also li
 Here is a list of things I am currently reading and listening to.
 
 ### Recent Publications
-"Dandyism" (in _[Political Concepts](https://www.politicalconcepts.org/dandyism-italo-alves/)_), where I make the case for the inclusion of "dandyism" in the political vocabulary, and that it shows how political claims can be expressed even in the absence of explicit articulation.
+In **Dandyism** (in _[Political Concepts](https://www.politicalconcepts.org/dandyism-italo-alves/)_) I make the case for the inclusion of "dandyism" in the political vocabulary, arguing that the concept helps show how political claims can be expressed even in the absence of explicit articulation.
 
-"Practice-Based Immanent Critique: A Model of Critical Theory" (in _[ethic@](https://doi.org/10.5007/1677-2954.2025.e108066)_, in Portuguese), where I argue that looking at social practices (as opposed to their interpretations) is a productive way of doing reconstructive critical theory.
+In **Practice-Based Immanent Critique: A Model of Critical Theory** (in _[ethic@](https://doi.org/10.5007/1677-2954.2025.e108066)_, in Portuguese) I argue that looking at social practices (as opposed to how they're interpreted) is a productive way of doing reconstructive critical theory.
 
 ### Conferences
-I will be at the [2026 Meeting](https://encontro.anpof.org.br/programacao-de-gts-sts-e-anpof-eb/) of the Brazilian Philosophical Association (ANPOF) in Florianópolis, from Nov 17–20. I will give a talk on Carl Schmitt and Walter Benjamin where I argue that they both share pretty much the same critique of "aestheticization", and that this is a rather problematic critique.
+I will be at the [2026 Meeting](https://encontro.anpof.org.br/programacao-de-gts-sts-e-anpof-eb/) of the Brazilian Philosophical Association (ANPOF) in Florianópolis, from Nov 17–20. I will give a talk on Carl Schmitt and Walter Benjamin, where I argue that they both share pretty much the same critique of "aestheticization", and that this is a rather problematic critique.
 
 I have recently presented at _[I Conferência Internacional Dialéticas](https://www.anpof.org/agenda/eventos/i-conferencia-internacional-dialeticas)_ at UCS, in Caxias do Sul, which took place on October 7–9, 2026. My work discussed some issues with Christoph Menke's _Theory of Liberation_.
 
